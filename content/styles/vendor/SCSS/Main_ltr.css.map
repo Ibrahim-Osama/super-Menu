@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,EACA;EACI,KAAK,ECDC,IAAI;EDEV,YAAiB,EAAC,IAAI",
+"sources": ["_Mainl.scss","Main_ltr.scss"],
+"names": [],
+"file": "Main_ltr.css"
+}
